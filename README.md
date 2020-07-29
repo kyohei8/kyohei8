@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## 🧐 About
+I'm lives and works in Tokyo building useful things.
+
+## 📫 Contact
+[![](https://img.shields.io/badge/Gmail-tsukuda.kyouhei%40gmail.com-orange)](mailto:tsukuda.kyouhei@gmail.com)
+
 <!--
 **kyohei8/kyohei8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🤔
+[![kyohei8's github stats](https://github-readme-stats.vercel.app/api?username=kyohei8)](https://github.com/anuraghazra/github-readme-stats)
